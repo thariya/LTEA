@@ -1,4 +1,4 @@
-package edu.mit.streamjit.transmitter;
+package transmitter;
 
 public class TurboEncoder extends edu.mit.streamjit.api.Pipeline<Byte, Byte> {
 	static int val=0;

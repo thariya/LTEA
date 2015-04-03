@@ -1,4 +1,4 @@
-package edu.mit.streamjit.channel;
+package channel;
 
 import org.jtransforms.fft.DoubleFFT_1D;
 

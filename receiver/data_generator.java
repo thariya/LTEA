@@ -1,4 +1,4 @@
-package edu.mit.streamjit.receiver;
+package receiver;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

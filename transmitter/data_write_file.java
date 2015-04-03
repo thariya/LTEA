@@ -1,4 +1,4 @@
-package edu.mit.streamjit.transmitter;
+package transmitter;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

@@ -1,4 +1,4 @@
-package edu.mit.streamjit.receiver;
+package receiver;
 
 import java.nio.ByteOrder;
 import java.nio.file.Path;

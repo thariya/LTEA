@@ -1,4 +1,4 @@
-package edu.mit.streamjit.transmitter;
+package transmitter;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

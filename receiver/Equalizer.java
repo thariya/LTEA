@@ -1,4 +1,4 @@
-package edu.mit.streamjit.receiver;
+package receiver;
 
 import org.jscience.mathematics.vector.ComplexMatrix;
 

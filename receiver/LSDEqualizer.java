@@ -1,4 +1,4 @@
-package edu.mit.streamjit.receiver;
+package receiver;
 
 public class LSDEqualizer extends
 edu.mit.streamjit.api.Filter<Double, Double>{

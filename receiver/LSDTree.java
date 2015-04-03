@@ -1,4 +1,4 @@
-package edu.mit.streamjit.receiver;
+package receiver;
 
 import java.awt.List;
 import java.util.ArrayList;

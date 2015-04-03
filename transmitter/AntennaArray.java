@@ -1,4 +1,4 @@
-package edu.mit.streamjit.transmitter;
+package transmitter;
 
 import org.jtransforms.fft.DoubleFFT_1D;
 import edu.mit.streamjit.api.RoundrobinJoiner;
